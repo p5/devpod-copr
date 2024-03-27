@@ -2,7 +2,7 @@
 
 Name:        gnome-shell-extension-pano
 # renovate: datasource=git-refs depName=oae/gnome-shell-pano packageName=https://github.com/oae/gnome-shell-pano branch=master
-Version:     2361af0ba76b2b9c20853636fd3c1329bc6f140d
+Version:     f1756e43efa06ff4e4230e81974ac71b515ade11
 Release:     1%{?dist}
 Summary:     Next-gen Clipboard Manager for Gnome Shell 
 
